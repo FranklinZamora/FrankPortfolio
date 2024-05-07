@@ -14,7 +14,7 @@ namespace Portafolio.Services
         {
             return new List<ProjectDTO>() {
             new ProjectDTO()
-            {
+            {  
                 Title = "AquaNode",
                 Description = "Feeder complementary module for reading parameters in the feeding area",
                 link = "https://www.instagram.com/reel/C1-k09UOoX7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
