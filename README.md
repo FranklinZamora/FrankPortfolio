@@ -4,6 +4,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 
+![GitHub](https://img.shields.io/github/license/FranklinZamora/FrankPortfolio)
+
 This repository contains the code for my personal portfolio. In this project, I showcase my skills and experience as a developer.
 
 ## About the Project
