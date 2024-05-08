@@ -1,9 +1,9 @@
 # My Portfolio
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepository)
-![GitHub issues](https://img.shields.io/github/issues-raw/yourusername/yourrepository)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/yourusername/yourrepository)
-![GitHub](https://img.shields.io/github/license/yourusername/yourrepository)
+![GitHub last commit](https://img.shields.io/github/last-commit/FranklinZamora/FrankPortfolio)
+![GitHub issues](https://img.shields.io/github/issues-raw/FranklinZamora/FrankPortfolio)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/FranklinZamora/FrankPortfolio)
+![GitHub](https://img.shields.io/github/license/FranklinZamora/FrankPortfolio)
 
 This repository contains the code for my personal portfolio. In this project, I showcase my skills and experience as a developer.
 
