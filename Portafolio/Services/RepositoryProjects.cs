@@ -19,7 +19,7 @@ namespace Portafolio.Services
             {
                 Title = "Landing Page | Dilan Gutierrez",
                 Description = "Landing page for a physiotherapist and trainer developed mainly in HTML, CSS and C#",
-                link = "https://github.com/FranklinZamora/AtmoSenseTEC",
+                link = "https://dilanlanding20240919230549.azurewebsites.net/",
                 ImageURL = "/Images/DilanGtz.png"
             },
             new ProjectDTO()
@@ -48,7 +48,7 @@ namespace Portafolio.Services
             {
                 Title = "AtmoSense",
                 Description = "Landing page for a physiotherapist and trainer developed mainly in HTML, CSS and C#",
-                link = "https://dilanlanding20240919230549.azurewebsites.net/",
+                link = "https://github.com/FranklinZamora/AtmoSenseTEC",
                 ImageURL = "/Images/AtmoSense.png"
             },
             new ProjectDTO()
